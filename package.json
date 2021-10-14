@@ -1,0 +1,12 @@
+{
+    "name" : "logaritmus",
+    "version": "1.0.0",
+    "description": "Simple logger",
+    "license": "MIT",
+    "repository": "mnove/logaritmus",
+    "main": "index.js",
+    "keywords": [
+    "logging",
+    "nodejs"
+    ]
+}
